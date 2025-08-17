@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: Amy's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+name: Amy Ng
+photo: /assets/image.jpg
+bio: "I'm a senior at Hunter College who loves tinkering and problem solving."
+fun_fact: "I love food but I cannot handle spice well."
+resume_url: "https://drive.google.com/file/d/1uOpMxPfhGcxU5-wyfSASC0t9PAv1CjTP/view?usp=sharing"
+linkedin_url: "https://www.linkedin.com/in/amy-ng-cs/"
+github_url: "https://github.com/amyng939"
